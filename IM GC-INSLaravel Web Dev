@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Garuda Cyber</title>
+</head>
+<body>
+    <h1>Garuda Cyber Institud</h1>
+    <h2>Jadilah Programer Handal Bersama GC-INS</h2>
+    <p>Grow Together With Garuda Cyber Institud</p>
+
+    <h3>Syarat dan Ketentuan</h3>
+
+    <ul>
+            <li>Tamatan SMA/SMK</li>
+            <li>Pekerja IT</li>
+            <li>Freelancer</li>
+    </ul>
+
+    <h3>Cara Bergabung</h3>
+
+    <ol>
+            <li>Kunjungin website GC-INS</li>
+            <li>Register</li>
+            <li>Lakukan Pembayaran</li>
+        
+    </ol>
+
+    
+</body>
+</html> 
